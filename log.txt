@@ -1,0 +1,17 @@
+commit 7278c258b4900865ac9cb61d964bd0776f5b5626
+Author: Anup-tiwari123 <anupcocmax@gmail.com>
+Date:   Sat Dec 7 19:58:34 2019 +0530
+
+    added new file to clonned repos
+
+commit 4c94f348934ca96890f35af8751b69b4f7f5d544
+Author: anup-tiwari123 <anupcocmax@gmail.com>
+Date:   Sat Dec 7 16:39:25 2019 +0530
+
+    I have modified it
+
+commit 20f2b8f44cd496312873c9bce29d3d60cbdc58e9
+Author: anup_tiwari <anupcocmax@gmail.com>
+Date:   Sat Dec 7 16:14:13 2019 +0530
+
+    this is our first commit
